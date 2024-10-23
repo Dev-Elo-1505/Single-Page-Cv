@@ -1,6 +1,6 @@
 # HTML Single Page CV
 
-This is a Single Page CV made with only HTML. It is a beginner coding challenge from roadmap.sh.
+This is a Single Page CV made with only HTML. It is a beginner coding challenge from roadmap.sh - https://roadmap.sh/projects/single-page-cv.
 
 ## Features
 - Used appropriate and semantic HTML tags to structure the CV.
