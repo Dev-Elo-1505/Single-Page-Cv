@@ -16,7 +16,7 @@ To view the CV, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [<repository-url>](https://github.com/Dev-Elo-1505/Single-Page-Cv.git)
+   git clone (https://github.com/Dev-Elo-1505/Single-Page-Cv.git)
 2. Navigate to the project directory
    cd html-single-page-cv
 3. Open the index.html file in your preferred web browser.
